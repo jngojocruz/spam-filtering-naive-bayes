@@ -1,22 +1,16 @@
-# Exercise for Spam Filtering using Naive Bayes Classifier
+# Spam Filtering using Naive Bayes Classifier
 
 ## Task
-Create a program that will take message files and classify them as spam or ham using a naive bayes classifier.
+A program that will take message files and classify them as spam or ham using a naive bayes classifier.
 
 ## Input
 Datasets for Spam and Ham are provided in separate folders for this exercise. Another folder for the messages to be classified is also given.
 
-## Required Output
+## Output
 The output of the program is a text file named classify.out which contains the following information per line
 - the filename of the file to be classified
 - classification of the message in the file
 - computed probability
-
-## Reminders
-- Naming convention for exercise: surname_naive_bayes.
-- Only Python or Java can be used for the exercise.
-- Do not forget to put a journal in your README file in Github.
-- Lastly, Honor and Excellence.
 
 ## Journal
 #### The programming language used
